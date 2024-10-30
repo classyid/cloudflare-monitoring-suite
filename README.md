@@ -82,10 +82,4 @@ Kontribusi sangat diterima! Silakan:
 
 ## 📝 License
 MIT License - lihat file [LICENSE](LICENSE)
-
-
-Detail lengkap dan panduan setup:
-[Link GitHub]
-[Link Blog]
-
 #CloudflareID #WebDevID #DevOpsIndonesia #AutomasiIT #MonitoringSystem
